@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/postingApp.dir/postingApp.cpp.o  -o postingApp -rdynamic /home/jon/YellowSub/moos-ivp/MOOS/MOOSCore/lib/libMOOS.a -lpthread -lm 

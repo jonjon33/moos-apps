@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/skeletonApp.dir/skeletonApp.cpp.o  -o skeletonApp -rdynamic /home/jon/YellowSub/moos-ivp/MOOS/MOOSCore/lib/libMOOS.a -lpthread -lm 

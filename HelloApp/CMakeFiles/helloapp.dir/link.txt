@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/helloapp.dir/helloapp.cpp.o  -o helloapp -rdynamic /home/jon/YellowSub/moos-ivp/MOOS/MOOSCore/lib/libMOOS.a -lpthread -lm 
